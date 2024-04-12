@@ -1,0 +1,345 @@
+[
+    {
+        "CategoryName": "Biryani/Rice",
+        "name": "Chicken Fried Rice",
+        "img": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Y2hpY2tlbiUyMGZyaWVkJTIwcmljZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        "options": [
+            {
+                "half": "130",
+                "full": "220"
+            }
+        ],
+        "description": "Made using Indian masalas and Basmati rice. Barbequed pieces of Paneer/Chicken/Mutton were added."
+    },
+    {
+        "CategoryName": "Biryani/Rice",
+        "name": "Veg Fried Rice",
+        "img": "https://media.istockphoto.com/id/1292618430/photo/healthy-and-tasty-veg-fried-rice-made-of-mixed-veggies-served-in-bowl-over-a-rustic-wooden.webp?b=1&s=170667a&w=0&k=20&c=dozm0HP-nyv_tqj7LWPtC4QDUa03bFsXCHFejPeaRO0=",
+        "options": [
+            {
+                "half": "110",
+                "full": "200"
+            }
+        ],
+        "description": "Made using Indian masalas and Basmati rice. Barbequed pieces of Paneer/Chicken/Mutton were added."
+    },
+    {
+        "CategoryName": "Biryani/Rice",
+        "name": "Fish Biryani",
+        "img": "https://media.istockphoto.com/photos/king-fish-biryani-with-raita-served-in-a-golden-dish-isolated-on-dark-picture-id1409942571?b=1&k=20&m=1409942571&s=170667a&w=0&h=ozlMJf5hsDmS2sSdEdBWnoSZOEITef4qGMeWeq2lyTc=",
+        "options": [
+            {
+                "half": "200",
+                "full": "320"
+            }
+        ],
+        "description": "Made using Indian masalas and Basmati rice. Barbequed pieces of Paneer/Chicken/Mutton were added."
+    },
+    {
+        "CategoryName": "Biryani/Rice",
+        "name": "Chicken Biryani",
+        "img": "https://cdn.pixabay.com/photo/2019/11/04/12/16/rice-4601049__340.jpg",
+        "options": [
+            {
+                "half": "170",
+                "full": "300"
+            }
+        ],
+        "description": "Made using Indian masalas and Basmati rice. Barbequed pieces of Paneer/Chicken/Mutton were added."
+    },
+    {
+        "CategoryName": "Biryani/Rice",
+        "name": "Veg Biryani",
+        "img": "https://media.istockphoto.com/photos/veg-biryani-picture-id1363306527?b=1&k=20&m=1363306527&s=170667a&w=0&h=VCbro7CX8nq2kruynWOCO2GbMGCea2dDJy6O6ebCKD0=",
+        "options": [
+            {
+                "half": "150",
+                "full": "260"
+            }
+        ],
+        "description": "Made using Indian masalas and Basmati rice. Barbequed pieces of Paneer/Chicken/Mutton were added."
+    },
+    {
+        "CategoryName": "Biryani/Rice",
+        "name": "Prawns Fried Rice",
+        "img": "https://cdn.pixabay.com/photo/2018/03/23/08/27/thai-fried-rice-3253027__340.jpg",
+        "options": [
+            {
+                "half": "120",
+                "full": "220"
+            }
+        ],
+        "description": "Made using Indian masalas and Basmati rice. Barbequed pieces of Paneer/Chicken/Mutton were added."
+    },
+    {
+        "CategoryName": "Starter",
+        "name": "Chilli Paneer",
+        "img": "https://media.istockphoto.com/photos/spicy-paneer-or-chilli-paneer-or-paneer-tikka-or-cottage-cheese-in-picture-id697316634?b=1&k=20&m=697316634&s=170667a&w=0&h=bctfHdYTz9q2dJUnuxGRDUUwC9UBWjL_oQo5ECVVDAs=",
+        "options": [
+            {
+                "half": "120",
+                "full": "200"
+            }
+        ],
+        "description": "Made using Indian masalas and Basmati rice. Barbequed pieces of Paneer/Chicken/Mutton were added."
+    },
+    {
+        "CategoryName": "Starter",
+        "name": "Paneer 65",
+        "img": "https://media.istockphoto.com/photos/paneer-tikka-kabab-in-red-sauce-is-an-indian-dish-made-from-chunks-of-picture-id1257507446?b=1&k=20&m=1257507446&s=170667a&w=0&h=Nd7QsslbvPqOcvwu1bY0rEPZXJqwoKTYCal3nty4X-Y=",
+        "options": [
+            {
+                "half": "150",
+                "full": "260"
+            }
+        ],
+        "description": "Made using Indian masalas and Basmati rice. Barbequed pieces of Paneer/Chicken/Mutton were added."
+    },
+    {
+        "CategoryName": "Starter",
+        "name": "Chicken Tikka",
+        "img": "https://images.unsplash.com/photo-1599487488170-d11ec9c172f0?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Y2hpY2tlbiUyMHRpa2thfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+        "options": [
+            {
+                "half": "170",
+                "full": "300"
+            }
+        ],
+        "description": "Made using Indian masalas and Basmati rice. Barbequed pieces of Paneer/Chicken/Mutton were added."
+    },
+    {
+        "CategoryName": "Starter",
+        "name": "Paneer Tikka",
+        "img": "https://media.istockphoto.com/photos/paneer-tikka-at-skewers-in-black-bowl-at-dark-slate-background-paneer-picture-id1186759790?k=20&m=1186759790&s=612x612&w=0&h=e9MlX_7cZtq9_-ORGLPNU27VNP6SvDz7s-iwTxrf7wU=",
+        "options": [
+            {
+                "half": "170",
+                "full": "250"
+            }
+        ],
+        "description": "Made using Indian masalas and Basmati rice. Barbequed pieces of Paneer/Chicken/Mutton were added."
+    },
+    {
+        "CategoryName": "Pizza",
+        "name": "Chicken Cheese Pizza",
+        "img": "https://media.istockphoto.com/photos/double-topping-pizza-on-the-wooden-desk-isolated-picture-id1074109872?k=20&m=1074109872&s=612x612&w=0&h=JoYwwTfU_mMBykXpRB_DmgeecfotutOIO9pV5_JObpk=",
+        "options": [
+            {
+                "regular": "120",
+                "medium": "230",
+                "large": "350"
+            }
+        ],
+        "description": "Made using Indian masalas and Basmati rice. Barbequed pieces of Paneer/Chicken/Mutton were added."
+    },
+    {
+        "CategoryName": "Soup",
+        "name": "Veg Hot and Sour Soup",
+        "img": "https://media.istockphoto.com/id/1332646104/photo/hot-and-sour-soup-with-sauces.webp?b=1&s=170667a&w=0&k=20&c=RF6GklFfH2S7l0vns96aBEoMlVow5o1FAVxjuzH3O98=",
+        "options": [
+            {
+                "half": "100",
+                "full": "150"
+            }
+        ],
+        "description": "Made using Indian masalas and Basmati rice. Barbequed pieces of Paneer/Chicken/Mutton were added."
+    },
+    {
+        "CategoryName": "Soup",
+        "name": "Chicken Hot and Sour Soup",
+        "img": "https://media.istockphoto.com/id/1435663351/photo/fresh-hot-and-sour-soup-served-in-a-bowl-isolated-on-grey-background-side-view-of-indian.webp?b=1&s=170667a&w=0&k=20&c=GQhmRtpYgwngslun1lWNU9Q0EgVYVG8SGnv2c2q-vp8=",
+        "options": [
+            {
+                "half": "120",
+                "full": "170"
+            }
+        ],
+        "description": "Made using Indian masalas and Basmati rice. Barbequed pieces of Paneer/Chicken/Mutton were added."
+    },
+    {
+        "CategoryName": "Soup",
+        "name": "Veg Manchow Soup",
+        "img": "https://media.istockphoto.com/id/1494080616/photo/veg-manchow-soup-in-black-bowl-on-wooden-background.webp?b=1&s=170667a&w=0&k=20&c=wGa7z8EDXgdt94GYGBF6JfOb20f4DsBQKwVCsDCX55U=",
+        "options": [
+            {
+                "half": "110",
+                "full": "160"
+            }
+        ],
+        "description": "Made using Indian masalas and Basmati rice. Barbequed pieces of Paneer/Chicken/Mutton were added."
+    },
+    {
+        "CategoryName": "Soup",
+        "name": "Chicken Manchow Soup",
+        "img": "https://media.istockphoto.com/id/1331132332/photo/vegetable-manchow-soup.webp?b=1&s=170667a&w=0&k=20&c=VAeN9gxUf6uF3t_JuVPGERmm7NlyEFxDH9g4aYBe98A=",
+        "options": [
+            {
+                "half": "130",
+                "full": "180"
+            }
+        ],
+        "description": "Made using Indian masalas and Basmati rice. Barbequed pieces of Paneer/Chicken/Mutton were added."
+    },
+    {
+        "CategoryName": "Extras",
+        "name": "Masala Papad",
+        "img": "https://media.istockphoto.com/id/1263817605/photo/masala-papad-or-spicy-papadum-is-an-indian-or-asian-vegetarian-crispy-food-starter-in.webp?b=1&s=170667a&w=0&k=20&c=Mi3gRLRiQ5xnf1zydZ2H8Ib0wUrZuvXFZvghK7tc5JA=",
+        "options": [
+            {
+                "full": "60"
+            }
+        ],
+        "description": "Made using Indian masalas and Basmati rice. Barbequed pieces of Paneer/Chicken/Mutton were added."
+    }, 
+    {
+        "CategoryName": "Extras",
+        "name": "Cucumber Raita",
+        "img": "https://media.istockphoto.com/id/941462168/photo/cucumber-yogurt-dip-raita-selective-focus.webp?b=1&s=170667a&w=0&k=20&c=4iAbzLuzhKpp8qxelWoA742lnxUz0VzU2kMqlQkRaEk=",
+        "options": [
+            {
+                "full": "45"
+            }
+        ],
+        "description": "Made using Indian masalas and Basmati rice. Barbequed pieces of Paneer/Chicken/Mutton were added."
+    }, 
+    {
+        "CategoryName": "Extras",
+        "name": "Schezwan Chutney",
+        "img": "https://media.istockphoto.com/id/1366317997/photo/schezwan-sauce.webp?b=1&s=170667a&w=0&k=20&c=rjg_044H4sB8svNSXW8a3oPcAnIukrLCTTKvslX3DXw=",
+        "options": [
+            {
+                "full": "25"
+            }
+        ],
+        "description": "Made using Indian masalas and Basmati rice. Barbequed pieces of Paneer/Chicken/Mutton were added."
+    },     
+    {
+        "CategoryName": "Main Course",
+        "name": "Dal Tadka",
+        "img": "https://media.istockphoto.com/id/1317288287/photo/indian-popular-food-dal-fry-or-traditional-dal-tadka-curry-served-in-pan.webp?b=1&s=170667a&w=0&k=20&c=-WGIVgy5-fzNFv-GfzUkz7Ql2AtsdmwuxzuVXJ9edwg=",
+        "options": [
+            {
+                "half": "120",
+                "full": "160"
+            }
+        ],
+        "description": "Made using Indian masalas and Basmati rice. Barbequed pieces of Paneer/Chicken/Mutton were added."
+    },
+    {
+        "CategoryName": "Main Course",
+        "name": "Dal Makhani",
+        "img": "https://media.istockphoto.com/id/1227587679/photo/dal-makhani-or-dal-makhni-is-a-dish-originating-from-the-punjab-region-of-the-indian.webp?b=1&s=170667a&w=0&k=20&c=4juZQ5-j-l8wbRARI39UE4n7yAD5dyH2HYx1WmG4AwA=",
+        "options": [
+            {
+                "half": "140",
+                "full": "180"
+            }
+        ],
+        "description": "Made using Indian masalas and Basmati rice. Barbequed pieces of Paneer/Chicken/Mutton were added."
+    },
+    {
+        "CategoryName": "Main Course",
+        "name": "Butter Chicken",
+        "img": "https://media.istockphoto.com/id/1472620857/photo/tasty-butter-chicken-curry-dish-from-indian-cuisine.webp?b=1&s=170667a&w=0&k=20&c=VlKSUtjqX7w44dlwRgnDisGLE8-u-FY-H6nHUXj-XgE=",
+        "options": [
+            {
+                "half": "200",
+                "full": "250"
+            }
+        ],
+        "description": "Made using Indian masalas and Basmati rice. Barbequed pieces of Paneer/Chicken/Mutton were added."
+    },
+    {
+        "CategoryName": "Main Course",
+        "name": "Veg Manchurian",
+        "img": "https://media.istockphoto.com/id/1497707535/photo/veg-manchurian-in-a-bowl-closeup-image.webp?b=1&s=170667a&w=0&k=20&c=7qkVwbTfyKwnS5UpivNsk7BRbr59DZYQUAPZwUkQZpQ=",
+        "options": [
+            {
+                "half": "140",
+                "full": "180"
+            }
+        ],
+        "description": "Made using Indian masalas and Basmati rice. Barbequed pieces of Paneer/Chicken/Mutton were added."
+    },
+    {
+        "CategoryName": "Main Course",
+        "name": "Paneer Chilly",
+        "img": "https://media.istockphoto.com/id/691867166/photo/food.webp?b=1&s=170667a&w=0&k=20&c=WZpgFeI8iP4U8l-vR-Iy1R0hLGW6kdyf_ZskVptbkto=",
+        "options": [
+            {
+                "half": "150",
+                "full": "200"
+            }
+        ],
+        "description": "Made using Indian masalas and Basmati rice. Barbequed pieces of Paneer/Chicken/Mutton were added."
+    },
+    {
+        "CategoryName": "Main Course",
+        "name": "Chicken Kadai",
+        "img": "https://media.istockphoto.com/id/1133995095/photo/chicken-kasoori-methi-methi-chicken-in-a-bowl-over-the-top-photo.webp?b=1&s=170667a&w=0&k=20&c=TEe1cmUU4CH5R8HyLVDUblc80yViPMoxFhpYgmAz-Nc=",
+        "options": [
+            {
+                "half": "190",
+                "full": "240"
+            }
+        ],
+        "description": "Made using Indian masalas and Basmati rice. Barbequed pieces of Paneer/Chicken/Mutton were added."
+    },
+    {
+        "CategoryName": "Desserts",
+        "name": "Matka Kulfi",
+        "img": "https://media.istockphoto.com/id/1736097864/photo/kulfi-ice-cream-in-two-clay-pots-with-small-dessert-spoon-on-a-white-background.webp?b=1&s=170667a&w=0&k=20&c=3DwUDXO7HQwckv28s6mGr9cZkbDDbQZDIosZgn-G0HE=",
+        "options": [
+            {
+                "full": "90"
+            }
+        ],
+        "description": "Made using Indian masalas and Basmati rice. Barbequed pieces of Paneer/Chicken/Mutton were added."
+    },
+    {
+        "CategoryName": "Desserts",
+        "name": "Gulab Jamun",
+        "img": "https://media.istockphoto.com/id/1188000786/photo/gulab-jamun-in-bowl-on-wooden-background-indian-dessert-or-sweet-dish.webp?b=1&s=170667a&w=0&k=20&c=CB1HisZy8VNRwvsiGqVwdfKfZq5XInGKo6yDJSFCYvU=",
+        "options": [
+            {
+                "full": "80"
+            }
+        ],
+        "description": "Made using Indian masalas and Basmati rice. Barbequed pieces of Paneer/Chicken/Mutton were added."
+    },
+    {
+        "CategoryName": "Desserts",
+        "name": "Ice Cream",
+        "img": "https://media.istockphoto.com/id/1161805849/photo/strawberry-vanilla-chocolate-ice-cream-with-waffle-cone-on-marble-stone-backgrounds.webp?b=1&s=170667a&w=0&k=20&c=p33-iH83RkfjI5Lt0m5glC-WkPOdp-A_AR7hoLz5y9o=",
+        "options": [
+            {
+                "full": "100"
+            }
+        ],
+        "description": "Made using Indian masalas and Basmati rice. Barbequed pieces of Paneer/Chicken/Mutton were added."
+    },
+    {
+        "CategoryName": "Desserts",
+        "name": "Rasgulla",
+        "img": "https://media.istockphoto.com/id/1156631698/photo/rasgulla-sweet-food.webp?b=1&s=170667a&w=0&k=20&c=kL1Q5EG0ZtF446Hv17j1bKOZf7twEZO8DXTcpk9fb-s=",
+        "options": [
+            {
+                "full": "120"
+            }
+        ],
+        "description": "Made using Indian masalas and Basmati rice. Barbequed pieces of Paneer/Chicken/Mutton were added."
+    },
+    {
+        "CategoryName": "Pizza",
+        "name": "Mix Veg Pizza",
+        "img": "https://media.istockphoto.com/photos/chinese-food-veg-pizza-picture-id1341905237?k=20&m=1341905237&s=612x612&w=0&h=Lbuza1Ig5cC1PwQhqTsq-Uac8hg1W-V0Wx4d4lqDeB0=",
+        "options": [
+            {
+                "regular": "100",
+                "medium": "200",
+                "large": "300"
+            }
+        ],
+        "description": "Made using Indian masalas and Basmati rice. Barbequed pieces of Paneer/Chicken/Mutton were added."
+    }
+]
