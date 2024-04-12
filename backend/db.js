@@ -1,5 +1,5 @@
 const mongoose = require('mongoose');
-const mongoURI = 'mongodb+srv://Vivekray:Ironfist12@merncluster.tijdmu7.mongodb.net/FoodMERN?retryWrites=true&w=majority';
+const mongoURI = [Your MongoDB URl];
 
 const Schema = mongoose.Schema;
 const mySchema = new Schema({
